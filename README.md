@@ -1,12 +1,9 @@
-# HideExpansionButton
-A World of Warcraft Addon to hide the expansion button.
+# Hide Expansion Button
+This is a tiny addon that hides the expansion button on the minimap.
 
-This is a tiny addon that hides the expansion button on the minimap. It defaults
-to hiding it and provides a single command to toggle the state. It remembers
-that state per character.
+# Usage
+It defaults to hiding the button and provides a single command to toggle it.
 
-To toggle the state use the command:
+To toggle the state use the command: `/heb`
 
-```
-/heb
-```
+State is saved per character.

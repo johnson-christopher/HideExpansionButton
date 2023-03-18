@@ -2,4 +2,5 @@ package-as: HideExpansionButton
 
 ignore:
   .gitignore
+  .pkgmeta 
   README.md

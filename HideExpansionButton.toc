@@ -1,8 +1,8 @@
-## Interface: 100007
+## Interface: 100100
 ## Title: Hide Expansion Button
 ## Notes: Hides the expansion button for the current expansion
 ## Author: Chris Johnson
-## Version: 1.0.3
+## Version: 1.0.4
 ## SavedVariablesPerCharacter: ExpansionButtonVisible
 
 HideExpansionButton.lua

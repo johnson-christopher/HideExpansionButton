@@ -1,8 +1,8 @@
-## Interface: 110005
+## Interface: 110007
 ## Title: Hide Expansion Button
 ## Notes: Hides the expansion minimap button
 ## Author: Chris Johnson
-## Version: 1.1.0
+## Version: 1.1.1
 ## SavedVariablesPerCharacter: ExpansionButtonVisible
 
 HideExpansionButton.lua
